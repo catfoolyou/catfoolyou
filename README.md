@@ -1,5 +1,6 @@
 ## Catfoolyou
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=catfoolyou&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="catfoolyou" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=catfoolyou&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="catfoolyou" /></p>
 
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
