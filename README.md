@@ -18,7 +18,9 @@
 
 
 <h3 align="left">Stuff I'm working on</h3>
-    <p><li>Eaglercraft 1.5.2 server and client systems</li></p>
+    <p><li>Eaglercraft 1.5.2 and 1.8.8 server and client systems</li></p>
     <p><li>Gitpod application deployment</li></p>
     <p><li>Graphics shaders with GLSL and OpenGL</li></p>
+    <p><li>Deploying JS and Emscriptem games to Github pages</li></p>
+    <p><li>Porting various games to the browser</li></p>
 
