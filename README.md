@@ -7,7 +7,7 @@ My Github repos, full of compiled browser games and all the other crap I crammed
 ![](https://img.shields.io/github/stars/catfoolyou)
 
 <h3 align="left">Stuff I'm working on</h3>
-    <p><li>Eaglercraft 1.5.2 and 1.8.8 server and client systems</li></p>
+    <p><li>Eaglercraft 1.5.2, 1.8.8 and 1.12.2 server and client systems</li></p>
     <p><li>Gitpod application deployment</li></p>
     <p><li>Graphics shaders with GLSL and OpenGL</li></p>
     <p><li>Deploying JS and Emscriptem games to Github pages</li></p>
