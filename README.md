@@ -3,11 +3,10 @@ My Github repos, full of compiled browser games and all the other crap I crammed
 
 > My website: [catfoolyou.github.io](catfoolyou.github.io)
 >
-Website blocked? 
+Website blocked? Offline downloads for Eagler and FNAW are available here: [https://github.com/catfoolyou/Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
 
-Offline downloads for Eagler and FNAW are available here: [https://github.com/catfoolyou/Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
-
-![](https://img.shields.io/website?url=https://catfoolyou.github.io) ![](https://img.shields.io/github/stars/catfoolyou)
+![](https://img.shields.io/website?url=https://catfoolyou.github.io) 
+![](https://img.shields.io/github/stars/catfoolyou)
 ![](https://img.shields.io/github/followers/catfoolyou)
 
 <h3 align="left">Stuff I'm working on</h3>
