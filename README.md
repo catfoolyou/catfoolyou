@@ -2,8 +2,10 @@
 My Github repos, full of compiled browser games and all the other crap I crammed in there for no particular reason.
 
 > My website: [catfoolyou.github.io](https://catfoolyou.github.io/Website-v2/)
+> 
+> Blocked? A mirror of the website is available [here](https://eldritchdev2.github.io/Website-v2/)
 >
-Website blocked? Offline downloads for Eagler and FNAW are available here: [https://github.com/catfoolyou/Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
+Offline downloads for Eagler and FNAW are available here: [https://github.com/catfoolyou/Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
 
 ![](https://img.shields.io/website?url=https://catfoolyou.github.io) 
 ![](https://img.shields.io/github/stars/catfoolyou)
