@@ -3,7 +3,7 @@ My Github repos, full of compiled browser games and all the other crap I crammed
 
 > My website: [catfoolyou.github.io](https://catfoolyou.github.io/Website-v2/)
 > 
-> Blocked? A mirror of the website is available [here](https://eldritchdev2.github.io/Website-v2/)
+> Blocked? A mirror of the website is available [here](https://eldritchdev3.github.io/Website-v2/)
 >
 Offline downloads and instructions for school computer jailbreaks are available [here](https://github.com/catfoolyou/Block-Bypass)
 
