@@ -5,7 +5,7 @@ My Github repos, full of compiled browser games and all the other crap I crammed
 > 
 > Blocked? A mirror of the website is available [here](https://eldritchdev3.github.io/Website-v2/)
 >
-Offline downloads and instructions for school computer jailbreaks are available [here](https://github.com/catfoolyou/Block-Bypass)
+Offline downloads and instructions for school computer jailbreaks are available [here](https://github.com/catfoolyou/Block-Bypass), a mirror is [available here for people in FCPS](https://github.com/eldritchdev3/Block-Bypass)
 
 ![](https://img.shields.io/website?url=https://catfoolyou.github.io) 
 ![](https://img.shields.io/github/stars/catfoolyou)
