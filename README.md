@@ -14,9 +14,10 @@ Offline downloads and instructions for school computer jailbreaks are available 
 ![](https://github-readme-stats.vercel.app/api?username=catfoolyou&show_icons=true&locale=en)
 
 ### Stuff I've made</h3>
-- Eaglercraft 1.6.4 browser port - play it [here](https://github.com/catfoolyou/Eagler-Client-1.6.4), download the source from [here](https://git.zelz.net/catfoolyou/Project164)
-- Eaglercraft Alpha 1.1.2_01 port - source availble [here](https://git.zelz.net/catfoolyou/Alpha-1.1.2_01)
-- Eaglercraft Beta 1.4_01 port - source availble [here](https://git.zelz.net/catfoolyou/Beta-1.4_01)
+- Eaglercraft 1.6.4 browser port - play it [here](https://github.com/catfoolyou/Eagler-Client-1.6.4)
+- Eaglercraft Alpha 1.1.2_01 port
+- Eaglercraft Beta 1.4_01 port
+- Eaglercraft Beta 1.2_02 port
 - [Pure Java CPU raytracer](https://github.com/catfoolyou/Java-RTX)
 - [Various labs for CS classes I've taken over the years](https://github.com/catfoolyou/CompSci-Labs)
 - [A shitty optifine shader written in GLSL](https://github.com/catfoolyou/Overhaul-shader)
